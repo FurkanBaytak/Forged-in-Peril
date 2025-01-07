@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/b5244319-4975-424b-8fd1-cf0b5b9394e3)# ⚔️ **Forged in Peril**
+# ⚔️ **Forged in Peril**
 
 > *"In a world teetering on the edge of chaos, only the bravest adventurers wielding masterfully forged weapons can restore balance. Will you rise to the challenge?"*
 
