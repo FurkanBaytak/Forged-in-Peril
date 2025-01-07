@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cd60dbb34f63440a4e78b2b5bf653d, type: 3}
+  m_Name: Enchanted Ice
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 04ffcecca520931409e2110293a12660, type: 3}
+  pressedIcon: {fileID: 21300000, guid: dcc48d2e09988ef4c91d0bcac0a0a10d, type: 3}
+  type: 5
+  materialDesc: Makes swords that slow and freeze enemies with each strike.
+  effect: {fileID: 11400000, guid: 89848ed4e61e4be42968d9958215eeec, type: 2}
+  isLocked: 0

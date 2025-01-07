@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cd60dbb34f63440a4e78b2b5bf653d, type: 3}
+  m_Name: Royal Gold
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 831693bd7a5d58148bd605a0b508cf40, type: 3}
+  pressedIcon: {fileID: 21300000, guid: b9b6ba33e18642f47ab380178a8c84fb, type: 3}
+  type: 3
+  materialDesc: 'Makes swords that are slightly improved in every way. '
+  effect: {fileID: 11400000, guid: bc16f9127980c6e4da365364afdb9ce2, type: 2}
+  isLocked: 1

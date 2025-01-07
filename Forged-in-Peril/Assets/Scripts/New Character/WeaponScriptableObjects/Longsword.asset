@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12474d9c5caa21e4bb46a0bcfeee9ee9, type: 3}
+  m_Name: Longsword
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 39884e951afd9db46929ff567eb3e035, type: 3}
+  pressedIcon: {fileID: 21300000, guid: 39f04adb339c1fe42b6904cb4c0b1572, type: 3}
+  type: 0
+  minBaseDamage: 5
+  maxBaseDamage: 7
+  weight: Medium
+  crit: 10
+  critDamage: 2
+  effect: {fileID: 11400000, guid: 79341bf1f5401a24abb7984edc017041, type: 2}
+  WeaponDesc: 'A standard, classic sword with reliable damage. '
+  material: {fileID: 11400000, guid: 44256d68320894c449eec0a9f5e971f4, type: 2}
+  isLocked: 0

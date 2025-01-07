@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cd60dbb34f63440a4e78b2b5bf653d, type: 3}
+  m_Name: Moon Silver
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 0e15b65881ae91f43b9cb8d6d659ca08, type: 3}
+  pressedIcon: {fileID: 21300000, guid: 020f8650d4988f44c9145bf2b878c450, type: 3}
+  type: 6
+  materialDesc: 'Makes swords blessed with magical moonlight, guiding their strikes. '
+  effect: {fileID: 11400000, guid: f0daef1088d20cf41ba8cfd20374cdef, type: 2}
+  isLocked: 1

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 12474d9c5caa21e4bb46a0bcfeee9ee9, type: 3}
+  m_Name: Rapier
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 459ea396550286c4ca59bfb50d5ce6fd, type: 3}
+  pressedIcon: {fileID: 21300000, guid: 4a793e10ae899e2449b6eb6274843c32, type: 3}
+  type: 6
+  minBaseDamage: 3
+  maxBaseDamage: 4
+  weight: Light
+  crit: 30
+  critDamage: 3
+  effect: {fileID: 11400000, guid: 36da3d2013d9e154c9adcc3f5989981f, type: 2}
+  WeaponDesc: 'A piercing sword with consistently low damage, but increased critical
+    damage. '
+  material: {fileID: 11400000, guid: 9dd40afa4fbaf69448768ba80c45c24d, type: 2}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22cd60dbb34f63440a4e78b2b5bf653d, type: 3}
+  m_Name: Adamantine
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 0910c5a179be1f742bb37ab8c077cef3, type: 3}
+  pressedIcon: {fileID: 21300000, guid: baf3f1ba875b75e4c9c3db0e4e6629e1, type: 3}
+  type: 2
+  materialDesc: Makes swords that are considerably heavier than normal.
+  effect: {fileID: 11400000, guid: 6e3769492b2a6c446b88eeab87449c6d, type: 2}
+  isLocked: 1
