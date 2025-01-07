@@ -151,8 +151,11 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
    - Furkan BAYTAK  
    - Furkan ÖZKAYA  
 - **GitHub:**  
-   - [FurkanBaytak](https://github.com/FurkanBaytak)  
-   - [FurkanÖzkaya](https://github.com/Elhier0)
+   - [FurkanBaytak GitHub](https://github.com/FurkanBaytak)  
+   - [FurkanÖzkaya GitHub](https://github.com/Elhier0)
+- **LinkedIn:** 
+   - [FurkanBaytak LinkedIn](https://www.linkedin.com/in/baytakfurkan/)  
+   - [FurkanÖzkaya LinkedIn](https://www.linkedin.com/in/furkanzky/)
 
 ---
 
